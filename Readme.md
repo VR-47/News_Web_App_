@@ -63,11 +63,13 @@ You'll see for each article:
 🔗 Direct link to full article
 
 ### 📂 Project Structure
+'''plaintext
 navchronicles/
 │
 ├── file.py               # Main Streamlit application
 ├── requirements.txt      # Python dependencies
 ├── README.md             # Project documentation
+'''
 ### 🧩 Dependencies
 
 Key dependencies include:
@@ -84,6 +86,8 @@ See requirements.txt for the complete list.
 
 ### 👩‍💻 Contributors
 This project is created and maintained by:
-
+'''plaintext
 Vanshika Rana - https://github.com/vanshikarana06 
-Vanshika Rana - https://github.com/VR-47 
+
+Vanshika Rana - https://github.com/VR-47
+'''
