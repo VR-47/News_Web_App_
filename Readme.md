@@ -65,10 +65,12 @@ You'll see for each article:
 ### 📂 Project Structure
 ```plaintext
 navchronicles/
-│
-├── file.py               # Main Streamlit application
-├── requirements.txt      # Python dependencies
-├── README.md             # Project documentation
+├── main_47.py            # Main Streamlit application
+├── requirements.txt   # Python dependencies
+└── README.md          # Project documentation
+└── images/
+    └── img_1.png
+    └── img_2.png
 ```
 ### 🧩 Dependencies
 
@@ -90,6 +92,7 @@ This project is created and maintained by:
 -[Vanshika Rana] (https://github.com/vanshikarana06)
 
 -[Vanshika Rana] (https://github.com/VR-47)
+
 
 
 
