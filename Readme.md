@@ -86,9 +86,10 @@ See requirements.txt for the complete list.
 
 ### 👩‍💻 Contributors
 This project is created and maintained by:
-```plaintext
-Vanshika Rana - https://github.com/vanshikarana06 
 
-Vanshika Rana - https://github.com/VR-47
-```
+-[Vanshika Rana] (https://github.com/vanshikarana06)
+
+-[Vanshika Rana] (https://github.com/VR-47)
+
+
 
